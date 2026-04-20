@@ -1,14 +1,19 @@
 # Teacher Input Monitoring Map
 
-Static Leaflet choropleth for the Teacher Input Monitoring district
-completeness map.
+Static Leaflet choropleths for Teacher Input Monitoring school attendance
+submission rates.
 
-Embed URL after GitHub Pages is enabled:
+District map:
 
 ```text
 https://gui2de.github.io/teacher-input-monitoring-map/tsa_completeness_district_map.html
 ```
 
-Keep `tsa_completeness_district_map.html` and
-`tsa_completeness_district_map_files/` together. The HTML file references
-assets in that sibling folder.
+Sector map:
+
+```text
+https://gui2de.github.io/teacher-input-monitoring-map/tsa_completeness_sector_map.html
+```
+
+Keep each HTML file and its matching `_files/` folder together. The HTML
+files reference assets in those sibling folders.
